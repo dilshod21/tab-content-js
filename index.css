@@ -4,10 +4,6 @@
     box-sizing: border-box;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-body{
-    background-image: url("./102153239-ramadhan-pattern.jpg");
-    background-attachment: fixed;
-}
 .dcontainer{
     width: 600px;
     height: auto;
