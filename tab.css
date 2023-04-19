@@ -1,0 +1,41 @@
+.btn-box{
+    width: 100%;
+    /* border: 1px solid red; */
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 5px 5px 15px gray;
+    margin: auto;
+    background-color: rgb(0, 211, 0);
+}
+.btn{
+    padding: 10px;
+    background-color: rgb(0, 211, 0);
+    border: 2px solid white;
+    border-radius: 5px;
+    color: white;
+    margin-right: 20px;
+}
+.btn.active{
+    background-color: red;
+}
+.btn:hover{
+    opacity: 0.7;
+}
+
+.content{
+    width: 100%;
+    padding: 20px;
+    /* border: 1px solid red; */
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    display: none;
+    background-color: rgb(0, 211, 0);
+    color: white;
+    box-shadow: 5px 5px 15px gray;
+}
+.content.active{
+    display: block;
+}
