@@ -10,6 +10,7 @@
     background-image: url("./bg.jpg");
     background-repeat: repeat;
     background-attachment: fixed;
+    padding-top: 50px;
 }
 .dcontainer{
     width: 600px;
