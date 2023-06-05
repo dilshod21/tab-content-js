@@ -10,7 +10,9 @@
     background-image: url("./bg.jpg");
     background-repeat: repeat;
     background-attachment: fixed;
-    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .dcontainer{
     width: 600px;
